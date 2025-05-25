@@ -28,7 +28,7 @@ body {
     border: 1.5px solid #556B2F;
 }
 
-.menu li a {
+.menu  a {
     text-decoration: none;
     color: #000000;
     font-weight: 500;
@@ -43,7 +43,7 @@ body {
     background-color: #ffffff;
 }
 
-.menu li a:hover {
+.menu  a:hover {
     background-color: #f0f0f0;
     color: #000000;
     border-color: #556B2F;
