@@ -46,11 +46,5 @@ export default defineConfig(({ command }) => {
         sort: 'mobile-first',
       }),
     ],
-    base: './',
-    resolve: {
-      alias: {
-        'simplelightbox': resolve(__dirname, 'node_modules/simplelightbox')
-      }
-    }
   };
 });
